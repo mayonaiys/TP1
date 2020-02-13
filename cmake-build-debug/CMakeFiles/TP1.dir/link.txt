@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TP1.dir/main.cpp.o CMakeFiles/TP1.dir/TP1_automoc.cpp.o  -o TP1 /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.7.1 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.7.1 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.7.1 
